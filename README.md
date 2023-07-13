@@ -48,3 +48,6 @@ Screens for user signup, login, task creation/editing, task listing, and admin d
 
 User passwords should be securely hashed and stored in the database.
 User authentication should be implemented to prevent unauthorized access to tasks and data.
+
+# Installation this Project #
+- [x] Coming soon ..... 
