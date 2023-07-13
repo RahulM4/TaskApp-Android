@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="colorPrimary">@color/task_app_green</color>
+    <color name="colorPrimaryDark">@color/task_app_dark</color>
+    <color name="colorAccent">@color/task_app_yellow</color>
+
+
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#fff</color>
+
+
+
+    <!--White-->
+
+    <color name="task_app_white">#FFFFFF</color>
+    <color name="task_app_white_dark">#A5A5A5</color>
+    <color name="task_app_black">#2a072e</color>
+
+    <color name="task_app_green_light">#43ff26</color>
+    <color name="task_app_green">#3ede1e</color>
+    <color name="task_app_green_dark">#33ab17</color>
+
+
+    <color name="task_app_yellow">#ffec20</color>
+
+    <!--Red-->
+
+    <color name="task_app_red">#EF3E06</color>
+    <color name="app_red_light">#FFE51F</color>
+
+
+    <!--Yellows-->
+
+    <color name="task_app_yellows">#FFA351</color>
+    <color name="task_app_purple">#DA7F2E</color>
+    <color name="task_app_dark">#C59366</color>
+    <color name="task_app_darkest">#A6805E</color>
+
+</resources>
